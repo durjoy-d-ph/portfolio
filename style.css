@@ -52,7 +52,7 @@ p{
 .btn:hover {
     background-image: linear-gradient(rgba(9, 93, 148, 1.0),rgba(52, 152, 219,1.0));
 }
-/* Dream */
+/* Dream Section */
 .dream {
     overflow: hidden;
     background-image: url("images/bg-2.png");
@@ -61,7 +61,7 @@ p{
     padding-bottom: 80px;
 }
 
-/* Experience-Area */
+/* Experience Section */
 .experience {
     overflow: hidden;
     background-image: url("images/bg-3.png");
@@ -91,7 +91,7 @@ p{
     border-image-slice: 1;
 }
 
-/* Footer Area */
+/* Footer Section */
 .copyright-area {
     overflow: hidden;
     padding-bottom: 20px;
