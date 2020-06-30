@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+/* Typography */
+h1,h3 {
+    text-transform: capitalize;
+}
+h1 {
+    font-size: 50px;
+}
+p{
+    color: #636e72;
+    text-align: justify;
+}
+.colored-text {
+    color: #fdcb6e;
+}
+/* Header Area */
+.header-area {
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.half-portion {
+    width: 40%;
+    margin: 5%;
+    float: left;
+    
+}
+.half-portion img {
+    width: 100%;
+    height: auto;
+}
+/* Button */
+.btn {
+    text-transform: capitalize;
+    text-decoration: none;
+    border: 1px solid transparent;
+    padding: 10px 20px;
+    color: #ffffff;
+    background-color: #00b894;
+    border-radius: 1px;
+    margin-top: 10px;
+    display: inline-block;
+}
